@@ -50,6 +50,7 @@ header nav a.active {
 }
 
 #home h1{
+ color: red;
   font-size: 58px;
   font-style: normal;
   line-height: 1.2;
